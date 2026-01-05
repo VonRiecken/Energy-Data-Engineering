@@ -1,6 +1,7 @@
 This repository contains the data analysis and predictive modeling project for the EDE 2025-2026 semester. The primary objective is to apply independent data organization and statistical methods to develop a robust linear regression model.
 
 🎯 **Project Goals**
+
 The project is divided into two core analytical phases, focused on moving from raw data to a balanced, high-performing predictive model:
 Part 1: Exploratory Data Analysis (EDA)
 Statistical Exploration: Quantitative analysis of dataset distributions and properties.
@@ -13,6 +14,7 @@ Validation: Implementation of k-fold cross-validation to ensure model generaliza
 Final Selection: Comparative visualization and selection of the best-performing model based on goodness-of-fit metrics.
 
 📦 **Deliverables**
+
 The project is submitted as a comprehensive Jupyter Notebook containing:
 Functional Code: Reproducible analysis that runs out-of-the-box.
 Markdown Documentation: Integrated explanations of methods and results.
@@ -20,12 +22,15 @@ HTML Export: A static version of the notebook for accessibility.
 Source Files: Any modified data files necessary for the notebook to run.
 
 📊 **Presentation Requirements**
+
 The project is presented directly from the Jupyter Notebook (no external slides).
 Duration: Maximum 15 minutes.
 Focus: Results, methodology, and high-level highlights.
 Team Participation: Equal contribution to the presentation by all members.
 
 📑 **Documentation & Transparency**
+
+
 The notebook includes a mandatory appendix detailing:
 Student Contributions
 Student
@@ -39,17 +44,20 @@ e.g., Model Selection, Validation
 XX%
 
 **Sources & AI Disclosure**
+
 External Sources: List of all libraries, papers, and websites used.
 AI Usage: Transparent disclosure of how LLMs or coding assistants were utilized (e.g., for debugging, documentation, or initial brainstorming).
 
 ⚖️ **Evaluation Criteria**
+
 Submissions are graded based on:
 Technical Quality: Correctness, completeness, and programming style.
 Analytical Depth: Application of theory and creativity in problem-solving.
 Communication: Conciseness and clarity of the documentation and presentation.
 
 
-**Project 9**: Heating and cooling power DFAB
+**Project 9: Heating and cooling power DFAB**
+
 Dataset:
 "dfab_2019_2022_resampled.csv" (Resampled to 15 min time steps and merged)
 
