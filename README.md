@@ -3,11 +3,13 @@ This repository contains the data analysis and predictive modeling project for t
 🎯 **Project Goals**
 
 The project is divided into two core analytical phases, focused on moving from raw data to a balanced, high-performing predictive model:
-Part 1: Exploratory Data Analysis (EDA)
+
+**Part 1:** Exploratory Data Analysis (EDA)
 Statistical Exploration: Quantitative analysis of dataset distributions and properties.
 Visual Insights: Focused graphical representations to identify patterns essential for modeling.
 Correlation Analysis: Investigating the relationships between independent variables and the target variable.
-Part 2: Model Training & Evaluation
+
+**Part 2:** Model Training & Evaluation
 Iterative Development: Training at least five different regression models ranging from single-feature to complex multi-feature architectures.
 Feature Engineering: Systematic selection and creation of features to optimize the bias-variance trade-off.
 Validation: Implementation of k-fold cross-validation to ensure model generalization and prevent overfitting.
